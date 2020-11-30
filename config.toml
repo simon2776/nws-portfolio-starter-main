@@ -46,7 +46,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
+    background_image      = ""
     heading               = "Chef de Projet Digital"
     primary_button        = "Voir mes travaux"
     primary_button_url    = "portfolio"
