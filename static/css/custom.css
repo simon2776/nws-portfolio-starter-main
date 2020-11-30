@@ -2,5 +2,23 @@
  * Feuille de style personnalisée
  ============================================ */
  body {
-    background: #0062cc;
+    background: #3353a0;
+}
+.btn-primary {
+    background: #3874ff;
+    color: #ffffff;
+}
+.btn-primary:hover {
+    background: #d47c08;
+    color: rgb(0, 0, 0);
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #000000;
+}
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: hsl(208, 13%, 44%);
 }
