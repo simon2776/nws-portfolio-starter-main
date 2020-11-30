@@ -1,4 +1,6 @@
 /**
  * Feuille de style personnalisée
  ============================================ */
- 
+ body {
+    background: #0062cc;
+}
